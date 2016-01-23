@@ -1,0 +1,6 @@
+https://mighty-shore-67504.herokuapp.com/
+https://git.heroku.com/mighty-shore-67504.git
+
+java-getstarted
+https://gentle-island-98188.herokuapp.com/
+https://git.heroku.com/gentle-island-98188.git
